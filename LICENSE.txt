@@ -1,0 +1,5 @@
+Copyright (c) 2025 TechArts Development
+
+All rights reserved.  
+These release files (installers and appcast.xml) are provided for use only with the DocPilot application.  
+Redistribution, modification, or commercial use without explicit permission is prohibited.
