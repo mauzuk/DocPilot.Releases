@@ -6,7 +6,7 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 2.0 (2 bugs fixed; 3 new features)</title>
+            <title>Version 1.1.0 (2 bugs fixed; 3 new features)</title>
             <sparkle:releaseNotesLink>
             https://netsparkleupdater.github.io/NetSparkle/files/sample-app/2.0-release-notes.md
             </sparkle:releaseNotesLink>
