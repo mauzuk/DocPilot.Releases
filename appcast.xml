@@ -1,22 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-    <channel>
-        <title>DocPilot</title>
-        <link>https://raw.githubusercontent.com/mauzuk/DocPilot.Releases/main/appcast.xml</link>
-        <description>Most recent changes with links to updates.</description>
-        <language>en</language>
-        <item>
-            <title>Version 1.1.0 (2 bugs fixed; 3 new features)</title>
-            <sparkle:releaseNotesLink>
-            https://netsparkleupdater.github.io/NetSparkle/files/sample-app/2.0-release-notes.md
-            </sparkle:releaseNotesLink>
-            <pubDate>Thu, 27 Oct 2016 10:30:00 +0000</pubDate>
-            <enclosure url="https://netsparkleupdater.github.io/NetSparkle/files/sample-app/NetSparkleUpdate.exe"
-                       sparkle:version="2.0"
-                       sparkle:os="windows"
-                       length="12288"
-                       type="application/octet-stream"
-                       sparkle:signature="NSG/eKz9BaTJrRDvKSwYEaOumYpPMtMYRq+vjsNlHqRGku/Ual3EoQ==" />
-        </item>
-    </channel>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>DocPilot</title>
+<description>Most recent changes with links to updates</description>
+<language>en</language>
+<item>
+<title>DocPilot 1.1.0</title>
+<pubDate>Sun, 14 Sep 2025 22:01:10 +02:00</pubDate>
+<sparkle:version>1.1.0</sparkle:version>
+<sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+<enclosure url="https://github.com/mauzuk/DocPilot.Releases/releases/download/v1.1.0/DocPilot-Setup-1.1.0.zip" sparkle:version="1.1.0" sparkle:shortVersionString="1.1.0" length="17067069" sparkle:os="windows" type="application/zip" sparkle:criticalUpdate="false" sparkle:signature="9Ng2pLJZ/1x2gxHu7ntJ3tB01DjHhFIqAnhOkrpjYiqYD2kSVa275+PZ/jmrWFW2Wq5k1BqKW+HeF7ycJhNcDA=="/>
+</item>
+</channel>
 </rss>
