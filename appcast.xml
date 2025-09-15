@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>DocPilot</title>
+    <description>Most recent changes with links to updates</description>
+    <language>en</language>
+    <item>
+      <title>DocPilot 1.1.0</title>
+      <pubDate>Sun, 14 Sep 2025 22:01:10 +02:00</pubDate>
+      <sparkle:version>1.1.0</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <enclosure url="https://raw.githubusercontent.com/mauzuk/DocPilot.Releases/master/DocPilot-Setup-1.1.0.zip" sparkle:version="1.1.0" sparkle:shortVersionString="1.1.0" length="17067069" sparkle:os="windows" type="application/zip" sparkle:criticalUpdate="false" sparkle:signature="dHm3n6OsxLOg6fpqWo1J0sYEG5vTlEapZQkJWzkNKc0jg2XBhPB+8I8QRq6qR+Qm/1diG0dskAzA8r46gOWGBw==" />
+    </item>
+  </channel>
+</rss>
